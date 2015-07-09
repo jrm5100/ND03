@@ -1,0 +1,6 @@
+The data for Raleigh, North Carolina was downloaded from MapZen (https://mapzen.com/data/metro-extracts).
+The direct link to the compressed OSM XML is https://s3.amazonaws.com/metro-extracts.mapzen.com/raleigh_north-carolina.osm.bz2
+
+Based on the square overlay shown on MapZen, the dataset seems to cover most of Raleigh in addition to Durham and Chapel Hill which together make up the "Research Triangle" area.  This area is known for it's abundance of high-tech and biotech research and there are several major universities in the area.
+
+I chose the area because I may move there in the future and I thought that this would be an interesting way to learn more about it.  It is a very fast-growing metro area which may result in some interesting mapping data (newer road names and more recent development).
